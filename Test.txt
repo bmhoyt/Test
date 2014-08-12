@@ -4,3 +4,4 @@ C:\Users\hoytbr01\workspace\BlankWhite\GitTest\BTest0.29964556402041487\Test.txt
 C:\Users\hoytbr01\workspace\BlankWhite\GitTest\BTest0.2431995788364546\Test.txt
 C:\Users\hoytbr01\workspace\BlankWhite\GitTest\BTest0.6926223486341017\Test.txt
 C:\Users\hoytbr01\workspace\BlankWhite\GitTest\BTest0.4744949461705792\Test.txt
+C:\Users\hoytbr01\workspace\BlankWhite\GitTest\BTest0.5155430640923196\Test.txt
