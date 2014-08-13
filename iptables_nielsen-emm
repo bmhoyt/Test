@@ -3,6 +3,14 @@
 :FORWARD ACCEPT [0:0]
 :OUTPUT ACCEPT [15471:3948779]
 
+# 2014-08-13
+hahahha.0
+hahahha.0
+hahahha.0
+hahahha.0
+hahahha.0
+hahahha.0
+
 # 2014-08-07
 -A INPUT -s 37.146.150.0/24 -j DROP -m comment --comment "nielsen block all"
 -A INPUT -s 151.248.120.0/24 -j DROP -m comment --comment "nielsen block all"
