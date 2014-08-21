@@ -4,6 +4,13 @@
 :OUTPUT ACCEPT [15471:3948779]
 
 # 2014-08-21
+# jp
+-A INPUT -s 126.75.46.0/24 -j DROP -m comment --comment "nielsen block all"
+-A INPUT -s 111.64.252.0/24 -j DROP -m comment --comment "nielsen block all"
+-A INPUT -s 126.75.46.0/24 -j DROP -m comment --comment "nielsen block all"
+-A INPUT -s 111.64.252.0/24 -j DROP -m comment --comment "nielsen block all"
+
+# 2014-08-21
 # iprxy
 -A INPUT -s 50.115.138.0/24 -j DROP -m comment --comment "nielsen block all"
 -A INPUT -s 54.187.136.0/24 -j DROP -m comment --comment "nielsen block all"
